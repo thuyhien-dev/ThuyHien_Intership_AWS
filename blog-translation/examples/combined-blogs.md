@@ -16,7 +16,7 @@ Bài viết phân tích các chiến lược kỹ thuật giúp đối tác SaaS
 
 ---
 
-[Chi tiết tại đây!](https://docs.google.com/document/d/1jHj_Bk_Zu7J6QxibPli1huHsvfF_miuixhN_U-CDny4/edit?tab=t.0#heading=h.5kkobqpk0e0o)
+[Chi tiết bài dịch tại đây!](https://docs.google.com/document/d/1jHj_Bk_Zu7J6QxibPli1huHsvfF_miuixhN_U-CDny4/edit?tab=t.0#heading=h.5kkobqpk0e0o)
 
 ## 2. Xây dựng cơ sở kiến thức kịp thời với Amazon Bedrock
 
@@ -32,7 +32,7 @@ Giới thiệu một kiến trúc SaaS sử dụng Bedrock, DynamoDB TTL và Ope
 
 ---
 
-[Chi tiết tại đây!](https://docs.google.com/document/d/1cUQVFS27Q4r0g9VbJDEPjkBa5YWXbueeRhQCy3FcEDQ/edit?tab=t.0#heading=h.4g6ecinpg1me)
+[Chi tiết bài dịch tại đây!](https://docs.google.com/document/d/1cUQVFS27Q4r0g9VbJDEPjkBa5YWXbueeRhQCy3FcEDQ/edit?tab=t.0#heading=h.4g6ecinpg1me)
 
 **Người dịch:** Nguyễn Thị Thuý Hiền  
 **Nguồn:** AWS Official Blog  
